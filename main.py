@@ -1,7 +1,7 @@
 # Import Discord module stated in the documentation
 import discord
 
-token = 'YOUR_DISCORD_APP_TOKEN_HERE'
+token = 'YOUR_DISCORD_BOT_TOKEN_HERE'
 
 client = discord.Client()
 
