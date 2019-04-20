@@ -1,5 +1,5 @@
 # Koetsu
-A "do-everything" Discord bot (not now).
+A "do-everything" Discord bot: server manager, music bot and other.
 
 # Getting started
 
